@@ -46,7 +46,7 @@ S3 bucket built with ownership controls and an account-restricted bucket policy.
 **Weekly Incident Queue**
 Each week includes 2–3 deliberately broken systems (file permission failures, runaway processes, silent script failures, service outages) diagnosed and documented from first principles — not scripted walkthroughs.
 
-*(- [Week 4 — Networking](#week-4--tracert-analysis)
+- [Week 4 — Networking](#week-4--tracert-analysis)
 - [Week 5 — Linux & SSH](#week-5--file-navigation)
 - [Week 6 — Terraform + EC2](#week-6--terraform--ec2-basics)
 - [Week 6–7 — AWS Setup](#aws-account-setup--terraform-ec2-deployment-week6-7)
@@ -57,7 +57,7 @@ Each week includes 2–3 deliberately broken systems (file permission failures, 
 - [week-6/scripts/install_apache.sh](./week-6/scripts/install_apache.sh)
 - [week-6/scripts/log_checker.sh](./week-6/scripts/log_checker.sh)
 - [week-6/scripts/create_user.sh](./week-6/scripts/create_user.sh)
-- [week-6/scripts/port_scanner.sh](./week-6/scripts/port_scanner.sh))*
+- [week-6/scripts/port_scanner.sh](./week-6/scripts/port_scanner.sh)
 
 ---
 
